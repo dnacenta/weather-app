@@ -18,7 +18,8 @@ const iconNames = {
   Clouds:'md-cloudy',
   Snow:'md-snow',
   Drizzle:'md-umbrella',
-  Standard:'md-thermometer'
+  Standard:'md-thermometer',
+  Fog: 'md-cloudy'
 }
 
 const phrases = {
@@ -70,6 +71,20 @@ const phrases = {
     highlight:"Fucking",
     color:'#F7DC6F',
     background:'#00AEF9'
+  },
+  Fog: {
+    title:"Fucking Foggy",
+    subtitle:"Try to see your dick, you won't see shit",
+    highlight:"Foggy",
+    color:'#F7DC6F',
+    background:'#939393'
+  },
+  Mist: {
+    title:"Oh Misty Eye",
+    subtitle:"Of the mountain below",
+    highlight:"Misty",
+    color:'#F7DC6F',
+    background:'#939393'
   }
 }
 
